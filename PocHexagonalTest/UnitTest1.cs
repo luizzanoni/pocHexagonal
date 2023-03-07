@@ -44,12 +44,12 @@ namespace PocHexagonalTest
             var curintchaRes = new Club
             {
                 Id = 1,
-                Name = "Aqui é Curintcha, mano!"
+                Name = "Aqui ï¿½ Curintcha, mano!"
             };
             var parmeiraRes = new Club
             {
                 Id = 2,
-                Name = "Aqui é Parmeira, meu!"
+                Name = "Aqui ï¿½ Parmeira, meu!"
             };
             var santosRes = new Club
             {
